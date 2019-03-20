@@ -148,7 +148,7 @@ texture file (.cxb), or an image file.
 
 ### MTL Format
 '#' denotes comments.
-```
+```mtl
 newmtl my_red
     Material color
     & illumination
